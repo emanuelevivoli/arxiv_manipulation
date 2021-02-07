@@ -1,0 +1,22 @@
+# pip install -r requirements.txt
+
+# base ----------------------------------------
+Cython
+matplotlib
+numpy
+plotly
+torch 
+transformers
+tokenizers
+tensorboard
+simpletransformers
+
+# plotting ------------------------------------
+seaborn>=0.11.0
+pandas
+
+# logging -------------------------------------
+
+# export --------------------------------------
+
+# extras --------------------------------------
