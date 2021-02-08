@@ -26,7 +26,7 @@ print(torch.__version__, transformers.__version__, tokenizers.__version__)
 ### Read JSON Data 📝
 # ---
 
-data_file = '../arxiv_download/tools/arxiv-metadata-oai-snapshot.json'
+data_file = '../../arxiv_download/tools/arxiv-metadata-oai-snapshot.json'
 
 """ Using `yield` to load the JSON file in a loop to prevent Python memory issues if JSON is loaded directly"""
 

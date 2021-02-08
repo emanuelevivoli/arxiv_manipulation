@@ -7,3 +7,6 @@ outputs
 
 # RUNS FOLDER
 runs
+
+# CACHE DIR
+cache_dir
