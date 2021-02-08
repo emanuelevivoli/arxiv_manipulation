@@ -1,3 +1,9 @@
 # SYSTEM
 .vscode
 .DS_Store
+
+# OUTPUT FOLDER
+outputs
+
+# RUNS FOLDER
+runs

@@ -5,6 +5,7 @@ Cython
 matplotlib
 numpy
 plotly
+cuda
 torch 
 transformers
 tokenizers
@@ -20,3 +21,4 @@ pandas
 # export --------------------------------------
 
 # extras --------------------------------------
+cuda
