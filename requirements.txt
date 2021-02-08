@@ -5,6 +5,7 @@ Cython
 matplotlib
 numpy
 plotly
+cuda
 torch 
 transformers
 tokenizers
